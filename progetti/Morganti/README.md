@@ -1,1 +1,2 @@
-
+Crittoanalisi differenziale del cifrario LELBC
+Implementazione e analisi crittografica del cifrario lightweight LELBC in Wolfram Mathematica. Il lavoro comprende l'implementazione dell'algoritmo, la costruzione della Difference Distribution Table (DDT) della S-box, lo studio della propagazione e delle probabilità delle caratteristiche differenziali, la loro verifica empirica tramite simulazioni Monte Carlo e, infine, la realizzazione di un attacco di key recovery parziale su una versione a round ridotti, finalizzato al recupero di 8 bit della sottochiave dell'ultimo round.
